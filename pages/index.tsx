@@ -1,12 +1,12 @@
-// import Head from "next/head";
+import Head from "next/head";
 
 export default function Home() {
   // document.title = "home";
   return (
     <main>
-      {/* <Head>
+      <Head>
         <title>home</title>
-      </Head> */}
+      </Head>
       <h1>home</h1>
     </main>
   );
